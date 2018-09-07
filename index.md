@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## 日你个大傻逼Gay疯
 
-You can use the [editor on GitHub](https://github.com/JavaMinecraftboss/100/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [zz](https://github.com/JavaMinecraftboss/100/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Garbage](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
